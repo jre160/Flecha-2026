@@ -31,25 +31,25 @@ The tool supports:
 ## Graphical User Interface
 
 ### Step 1 — Units, Geometry, and Materials
-![GUI Step 1](images/GUI Step 1.png)
+![GUI Step 1](images/GUI%20Step%201.png)
 
 ### Step 2 — Number of Reinforcement Layers
-![GUI Step 2](images/GUI Step 2.png)
+![GUI Step 2](images/GUI%20Step%202.png)
 
 ### Step 3 — Reinforcement Layout
-![GUI Step 3](images/GUI Step 3.png)
+![GUI Step 3](images/GUI%20Step%203.png)
 
 ---
 
 ## Output
 
 ### Fiber Section
-![Fiber Section](images/Fiber_Section.png)
+![Fiber Section](images/Fiber%20Section.png)
 
 ### Moment–Curvature Curve
 Steel yield is marked as a point and labeled in the legend.
 
-![Moment Curvature](images/Moment_Curvature.png)
+![Moment Curvature](images/Moment%20Curvature.png)
 
 ### CSV File (Optional)
 When enabled in the GUI, the moment–curvature results can be exported to a **CSV file**.  
