@@ -1,0 +1,9 @@
+numpy>=1.20
+matplotlib>=3.5
+openseespy==3.8.0.1
+opsvis
+pandas>=1.4
+openpyxl>=3.0
+
+Your environment must be Python 3.8
+(openseespywin requires exactly 3.8 on Windows)
